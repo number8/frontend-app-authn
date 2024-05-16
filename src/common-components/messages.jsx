@@ -114,7 +114,7 @@ const messages = defineMessages({
   },
   'registration.other.options.heading': {
     id: 'registration.other.options.heading',
-    defaultMessage: 'Or register with:',
+    defaultMessage: 'Register with:',
     description: 'A message that appears above third party auth providers i.e saml, google, facebook etc',
   },
   'institution.login.button': {
@@ -124,7 +124,7 @@ const messages = defineMessages({
   },
   'login.other.options.heading': {
     id: 'login.other.options.heading',
-    defaultMessage: 'Or sign in with:',
+    defaultMessage: 'Sign in with:',
     description: 'Text that appears above other sign in options like social auth buttons',
   },
   'enterprise.login.btn.text': {
